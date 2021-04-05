@@ -6,3 +6,4 @@ The word to guess is represented by a row of dashes, representing each letter of
 
 
 [title](https://agea.github.io/tutorial.md "Markdown Tutor
+[tutorial.md]: https://agea
