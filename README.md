@@ -1,2 +1,4 @@
 # Hangman
-A python word guessing game, called hangman
+A python word guessing game, called hangman.
+
+Hangman
